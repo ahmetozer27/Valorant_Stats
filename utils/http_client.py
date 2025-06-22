@@ -3,6 +3,7 @@
 import requests
 from config import HEADERS
 
+
 def get(url):
     try:
         response = requests.get(url, headers=HEADERS)
