@@ -1,6 +1,6 @@
 # config.py
 
-API_KEY = "YOUR_API_KEY"
+API_KEY = "RGAPI-32132a8c-9338-4593-a01f-2262ab855432"
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36",
     "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7",
